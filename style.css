@@ -1,0 +1,18 @@
+body {
+	font-size : 0.9rem !important;
+}
+
+.responsive {
+  width: 70%;
+  max-width: 350px;
+  height: auto;
+}
+
+#divSeats .row, .col {
+	padding: 0 !important;
+}
+
+#divSeats .btn {
+	border-radius: unset !important;
+}
+
